@@ -9,8 +9,8 @@
     <url>https://github.com/mojth/discordRandomNumberBot</url>
 
     <properties>
-        <maven.compiler.target>17</maven.compiler.target>
-        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>16</maven.compiler.source>
         <version.jda>4.3.0_340</version.jda>
         <version.slfj4>1.7.32</version.slfj4>
     </properties>
